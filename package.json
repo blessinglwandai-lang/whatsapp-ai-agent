@@ -5,7 +5,7 @@
   "description": "WhatsApp Cloud API webhook connected to OpenAI, deployable on Render",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node server.js",
     "dev": "node --watch server.js"
   },
   "engines": { "node": ">=20" },
